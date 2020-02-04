@@ -19,8 +19,14 @@ namespace DesignPatternsConsole
             cp.start();
             */
 
+            /*
             DecoratorPattern dp = new DecoratorPattern();
             dp.start();
+            */
+
+            ProxyPattern pp = new ProxyPattern();
+            pp.start();
+
 
         }
     }
