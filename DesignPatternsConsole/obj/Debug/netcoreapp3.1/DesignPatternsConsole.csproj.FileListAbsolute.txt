@@ -1,0 +1,11 @@
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\bin\Debug\netcoreapp3.1\DesignPatternsConsole.exe
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\bin\Debug\netcoreapp3.1\DesignPatternsConsole.deps.json
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\bin\Debug\netcoreapp3.1\DesignPatternsConsole.runtimeconfig.json
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\bin\Debug\netcoreapp3.1\DesignPatternsConsole.runtimeconfig.dev.json
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\bin\Debug\netcoreapp3.1\DesignPatternsConsole.dll
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\bin\Debug\netcoreapp3.1\DesignPatternsConsole.pdb
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\obj\Debug\netcoreapp3.1\DesignPatternsConsole.csprojAssemblyReference.cache
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\obj\Debug\netcoreapp3.1\DesignPatternsConsole.AssemblyInfoInputs.cache
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\obj\Debug\netcoreapp3.1\DesignPatternsConsole.AssemblyInfo.cs
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\obj\Debug\netcoreapp3.1\DesignPatternsConsole.dll
+C:\Users\cah\source\repos\DesignPatternsConsole\DesignPatternsConsole\obj\Debug\netcoreapp3.1\DesignPatternsConsole.pdb
