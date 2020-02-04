@@ -14,9 +14,13 @@ namespace DesignPatternsConsole
             fm.start();
             */
 
-            //
+            /*
             CommandPattern cp = new CommandPattern();
             cp.start();
+            */
+
+            DecoratorPattern dp = new DecoratorPattern();
+            dp.start();
 
         }
     }
